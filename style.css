@@ -3,56 +3,58 @@
    grid-template-columns: 2fr 2fr 2fr;
    /* margin: 2rem auto; */
    grid-gap: 2rem;
-   border: 2px solid red;
+   border: 3px solid #dd7732;
    align-items: center;
    justify-items: center;
    font-size: 2rem;
-}
-.logo img{
+  }
+  
+  .logo img{
     display: block;
     max-height: 10%;
     max-width: 50%;
-}
-
-.menu ul{
+  }
+  
+  .menu ul{
     display: flex;
     /* position: relative; */
     /* margin: auto; */
     padding: 10px 10px;
     
-
+  
    
-}
-.menu-items{
+  }
+  .menu-items{
     list-style-type: none;
     /* margin: auto; */
-}
-.menu-items:hover{
+  }
+  .menu-items:hover{
    text-decoration:underline;
     /* margin: auto; */
-}
-.menu-items:visited{
+  }
+  .menu-items:visited{
     text-decoration: underline;
     color: rgb(202, 202, 124);
-}
-
-.menu-items a{
+  }
+  
+  .menu-items a{
     text-decoration: none;
     color: black;
     /* margin: auto; */
     
     margin-right: 3rem;
-}
-.social{
+  }
+  .social{
     display: flex;
    
-}
-.social img{
+  }
+  .social img{
     display: block;
     margin-right: 2rem;
+    height: 1.5rem;
     /* margin: auto; */
     
-}
+  }
 #body{
     display: block;
     border: solid 2px black;
