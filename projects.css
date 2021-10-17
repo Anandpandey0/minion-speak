@@ -48,19 +48,17 @@
     margin-right: 3rem;
 }
 
-.social {
+.social{
     display: flex;
-
+   
 }
-
-.social img {
+.social img{
     display: block;
     margin-right: 2rem;
     height: 1.5rem;
     /* margin: auto; */
-
+    
 }
-
 .container{
     
     width: 90fr;

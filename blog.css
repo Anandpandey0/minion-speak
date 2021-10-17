@@ -45,15 +45,15 @@
     margin-right: 3rem;
 }
 .social{
-    display: flex;
-   
+  display: flex;
+ 
 }
 .social img{
-    display: block;
-    margin-right: 2rem;
-    height: 1.5rem;
-    /* margin: auto; */
-    
+  display: block;
+  margin-right: 2rem;
+  height: 1.5rem;
+  /* margin: auto; */
+  
 }
 :root {
   --color: #3c3163;
